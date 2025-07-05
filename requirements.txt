@@ -1,9 +1,9 @@
+--prefer-binary
 streamlit
+textblob
+seaborn
 pandas
 numpy
 scikit-learn
 matplotlib
-seaborn
-textblob
 plotly
-
